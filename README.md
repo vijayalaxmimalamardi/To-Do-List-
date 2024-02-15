@@ -1,1 +1,1 @@
-
+To Do List Project : The to do list project is a simple web applcation. designed to help users manage their tasks and stay organized. It allows users to add, edit and delete tasks conveniently. Local Storage is used in the To-Do List project to store, retrieve, and update task data locally on the user's device, ensuring that the user's tasks are saved and accessible across different sessions.
